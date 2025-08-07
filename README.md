@@ -143,5 +143,4 @@ Make sure all required libraries (sklearn, matplotlib, seaborn, etc.) are instal
 
 🙋‍♂️ Author
 Raheel Riaz Rathore
-Student at University of Management and Technology (UMT)
-Master’s in Computer and Data Science (MsCDS)
+
